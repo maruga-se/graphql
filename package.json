@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "nodemon -e js,json,graphql"
+  },
+  "main": "index.js"
+}
